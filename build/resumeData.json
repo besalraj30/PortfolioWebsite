@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Besal Raj",
+    "occupation":"Full Stack Web Developer",
+    "description":" currently employed by ",
+    "employer":"Ikhono Hub",
+    "jobDescription":"full stack web developer across the range of our products, as well being our cybersecurity trainee",
+    "image":"profile_pic.jpg",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for web development, online security, and a passion for coding. Having completed an year at college, I pursued my first development internship to kick off my career. I was hired as a full stack developer intern by Ikhono Hub, where I still work today. Since beginning my career there, I have been given the opportunity to gradually shift into cybersecurity for the startup. I am currently beginning my CyberSecurity experience while working as a full stack developer.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "besal8953@gmail.com",
+    "phone": "(+91) 9549940648",
+    "address":{
+      "street":"Vellore Institute of Technology",
+      "city":"Vellore",
+      "state":"Tamil Nadu",
+      "zip": "632014"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1Gq2UQ01y2TBiysusM0fmk3ohjtvnbyT1",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/besal.raj.1",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/besal-raj-7a02b7199/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/besalraj30/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/users/14054343/besal-raj",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/besalraj30",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"Vellore Institute of Technology",
+        "degree":"Bachelors in Technology, Information Technology",
+        "graduated":"Expected April 2022",
+        "description":"Under the recommendation and Guidance of my Father, I got admitted to Vellore Institute of Technology. Here I took my Bachelors of Technology with an Information Technology Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web), and found that I have a knack for understanding complex algorithms."
+      }
+    ],
+    "work":[
+      {
+        "company":"Ikhono Hub",
+        "title": "React Developer",
+        "years": "June 2022 - Present",
+        "description": "For most of my time at Ikhono Hub, I have worked as a Full Stack Web Developer. Here I have had the chance to dig in and get my hands dirty with all parts of Web Development. I have worked with our legacy PHP, ReactJS, as well as built new node-based servers for new products. As well, I led the development of the official website for the startup to help spread the educational benefits provided by the company. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to dive into our cybersecurity initiative. Cybersecurity is a field I have always been interested in, but couldn't find ways to get started with it. With the help of the startup's leaders, I could gradually learn the basics and be confident with my skills. "
+      },
+      {
+        "company":"Robotux Studios",
+        "title":"Full Stack Web Developer",
+        "years":"April 2022 - June 2022",
+        "description":"Working for the startup named Robotux Studios has given me a solid understanding of the basics of Web Development and what it takes to keep the things working that we take for granted every day. During my time here I have worked in various frontend and backend languages involved in the development of a Website. \n\nWhile working for Robotux Studios, and alongside one partner, we led the first Uni-Directional Flow program of explanding the reach of the company. This requires a thorough understanding of digital marketing as well as implementing it. This must be done in a specific order for every website you develop.   "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Java",
+        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"java.jpg"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"C++",
+        "description":"I enjoy C++ because of it being an object-oriented programming language, C++ is a high-level language that is much easier to use than the other low-level languages such as binary coding. It takes much more space than low-level languages but it is much easier to understand and learn.",
+        "image":"c++.jpg"
+      },
+
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"YelpCamp",
+        "category":"My Travel Blog for exploring beautiful Campgrounds of the world.",
+        "image":"Yelpcamp.jpg",
+        "url":"https://polar-gorge-01290.herokuapp.com/"
+      },
+      {
+        "title":"Burger Builder",
+        "category":"Online Burger Delivery Website",
+        "image":"Burgerbuilder.jpg",
+        "url":"https://react-my-burger-e9ac6.web.app/"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Besal on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Pratyush Goel - Web Developer and CyberSecurity Specialist at Ikhono Hub"
+      }
+    ]
+  }
+}
