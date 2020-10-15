@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+Below is something about me:
+I aim to pursue my career in the field of Software Development. My main inspiration is to learn and enhance my aptitudes where I can improve my capacity, viable learning, knowledge and work with my utmost commitment in the field of Software Development. I am a Web Development enthusiast with good knowledge in React.Js, JavaScript, Node.Js and open to upskill myself
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
